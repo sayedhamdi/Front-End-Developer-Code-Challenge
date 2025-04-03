@@ -34,22 +34,22 @@ https://github.com/user-attachments/assets/da007a4f-071b-4c1c-bff2-a1f50a4e97c4
   ├── loading-state.tsx
   ├── error-state.tsx
   ├── checkout-bar.tsx
-/pages
-  ├── index.tsx (Main Skip Hire Page)
+/app
+  ├── page.tsx (Main Skip Hire Page)
 ```
 
 ## 🔧 Setup & Running the Project
 
 ```sh
-git clone https://github.com/YOUR_GITHUB/skip-hire-redesign.git
-cd skip-hire-redesign
+git clone https://github.com/sayedhamdi/Front-End-Developer-Code-Challenge.git
+cd Front-End-Developer-Code-Challenge
 npm install
 npm run dev
 ```
 
 ## 🖥️ Testing the Project
 
-You can view a live sandbox version of the project here: [Live Demo](YOUR_SANDBOX_LINK)
+You can view a live sandbox version of the project here: [Live Demo](https://front-end-developer-code-challenge.vercel.app/)
 
 ## 🎯 Approach & Thought Process
 
