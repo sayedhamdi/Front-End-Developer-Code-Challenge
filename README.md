@@ -4,11 +4,7 @@ This project is a redesign of the skip selection page for WeWantWaste, implement
 
 ## 📽️ Demo Video
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/da007a4f-071b-4c1c-bff2-a1f50a4e97c4
 ## 🛠️ Technologies Used
 
 - **Next.js** (React Framework)
